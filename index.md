@@ -7,7 +7,12 @@
 int main()
 {
     printf("Hello, I'm Oliver!\n");
-    return 0;
+
+    if (oliver) {
+        return 1;
+    } else {
+        return 0;
+    }
 }
 
 ```
