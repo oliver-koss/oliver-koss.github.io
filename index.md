@@ -1,5 +1,7 @@
 [About me](./pages/about.md)
 
+[Funny quotes](./pages/best-of.md)
+
 ```c
 
 #include <stdio.h>
