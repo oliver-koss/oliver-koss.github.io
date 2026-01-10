@@ -17,8 +17,15 @@
 
  - [source](https://www.reddit.com/r/mildlyinfuriating/s/zCZ2kVjlQ9)
 
+---
+
+> Neighbor is demanding payment for Wi-Fi singals passing through his airspace and served me with formal letter
+
+ - [source](https://www.reddit.com/r/legal/s/yowVVTGRAY)
+
 
 <!--
+
 ---
 
 > 
