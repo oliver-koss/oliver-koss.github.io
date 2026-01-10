@@ -7,3 +7,18 @@
 > So I've opened up my X270 and stripped it down so many times I could do it faster than a soviet child disassembling an AK-47 for cleaning. 
 
  - [source](https://www.reddit.com/r/thinkpad/s/0dbW5ouqPp)
+
+---
+
+> My grandma climbed on my laptop and said: Come on, check my weight for me?
+
+ - [source](https://www.reddit.com/r/mildlyinfuriating/s/zCZ2kVjlQ9)
+
+
+<!--
+---
+
+> 
+
+ - [source]()
+-->
