@@ -2,6 +2,7 @@
 
  - [source](https://gist.github.com/theodric/8486a17d1d93a10183dbbf39be7a0239)
 
+---
 
 > So I've opened up my X270 and stripped it down so many times I could do it faster than a soviet child disassembling an AK-47 for cleaning. 
 
