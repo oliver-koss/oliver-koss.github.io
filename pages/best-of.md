@@ -1,4 +1,4 @@
-### Some funny quotes I found in the internet
+### Some funny quotes I found on the internet
 
 
 > flash coreboot instead so all the guys at the hacker festival think you're cool until they talk to you for a while
