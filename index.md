@@ -1,6 +1,6 @@
-[About me](./pages/about.md)
+ - [About me](./pages/about.md)
 
-[Funny quotes](./pages/best-of.md)
+ - [Funny quotes](./pages/best-of.md)
 
 ```c
 
