@@ -23,6 +23,11 @@
 
  - [source](https://www.reddit.com/r/legal/s/yowVVTGRAY)
 
+---
+
+> It seems you can take the dev out of microsoft, but can't take microsoft out of the dev
+
+ - [source](https://www.reddit.com/r/linuxmemes/comments/1s4jjsv/yeah_but_no/)
 
 <!--
 
